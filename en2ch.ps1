@@ -1,5 +1,24 @@
+$WorkingDirectory = "D:\TextReplacing"
+$OriDirectory = "D:\SteamLibrary\steamapps\common\merchant_of_the_six_kingdoms\resources\ori\dist\electron"
+$OutDirectory = "D:\SteamLibrary\steamapps\common\merchant_of_the_six_kingdoms\resources\output\dist\electron"
+
+Set-location $WorkingDirectory
+
+$paths =  "$WorkingDirectory\renderer.js"
+foreach($filePath in $paths)
+{
+    if (Test-Path $filePath) {
+        Remove-Item $filePath -verbose
+    } else {
+        Write-Host "Path doesn't exits"
+    }
+}
+
+Copy-Item "$OriDirectory\renderer.js" -Destination "$WorkingDirectory"
+
 $Translates = Get-Content -Path D:\TextReplacing\translate.txt -encoding utf8
 $rendererpath = "D:\TextReplacing\renderer.js"
+
 $OgText = Get-Content -Path $rendererpath -encoding utf8
 $Length=$Translates.count
 for ($index = 0; $index -lt $Length; $index++) {
@@ -12,3 +31,13 @@ for ($index = 0; $index -lt $Length; $index++) {
 }
 
 Set-Content -Path $rendererpath -encoding utf8 -Value $NewText
+
+Write-Output ("Outputing renderer.js")
+Copy-Item "$WorkingDirectory\renderer.js" -Destination "$OutDirectory"
+
+Set-location "D:\SteamLibrary\steamapps\common\merchant_of_the_six_kingdoms\resources"
+
+Write-Output ("Packing app.asar")
+asar.cmd pack output app.asar
+
+Write-Output ("Done")
