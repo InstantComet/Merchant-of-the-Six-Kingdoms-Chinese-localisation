@@ -1,5 +1,6 @@
 $Translates = Get-Content -Path D:\TextReplacing\translate.txt -encoding utf8
-$OgText = Get-Content -Path D:\TextReplacing\renderer.js -encoding utf8
+$rendererpath = "D:\TextReplacing\renderer.js"
+$OgText = Get-Content -Path $rendererpath -encoding utf8
 $Length=$Translates.count
 for ($index = 0; $index -lt $Length; $index++) {
     <# Action that will repeat until the condition is met #>
@@ -11,4 +12,4 @@ for ($index = 0; $index -lt $Length; $index++) {
     Write-Output $NewText
 }
 
-Set-Content -Path D:\TextReplacing\renderer.js -encoding utf8 -Value $NewText
+Set-Content -Path $rendererpath -encoding utf8 -Value $NewText
