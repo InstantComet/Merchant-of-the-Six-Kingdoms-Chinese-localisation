@@ -9,7 +9,6 @@ for ($index = 0; $index -lt $Length; $index++) {
     Write-Output ("Replacing" + " "+ $eng)
     $NewText = $OgText.Replace($eng,$chn)
     $OgText = $NewText
-    Write-Output $NewText
 }
 
 Set-Content -Path $rendererpath -encoding utf8 -Value $NewText
