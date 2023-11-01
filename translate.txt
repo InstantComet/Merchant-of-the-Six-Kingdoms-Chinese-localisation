@@ -1,5 +1,5 @@
-"Credits"="制作人员"
-"New Game"="新游戏"
+"\n        Credits\n        "="\n        制作人员\n        "
+"\n          New Game\n          "="\n          新游戏\n          "
 "\n                Uncollected\n              "="\n                未收集过\n              "
 "\n        Highlight Uncollected\n      "="\n        高亮未收集过的\n      "
 "food"="食物"

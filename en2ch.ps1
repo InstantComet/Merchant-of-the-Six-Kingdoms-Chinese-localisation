@@ -3,7 +3,7 @@ $OriDirectory = "D:\SteamLibrary\steamapps\common\merchant_of_the_six_kingdoms\r
 $OutDirectory = "D:\SteamLibrary\steamapps\common\merchant_of_the_six_kingdoms\resources\output\dist\electron"
 
 Set-location $WorkingDirectory
-
+#删掉上一次生成的renderer.js
 $paths =  "$WorkingDirectory\renderer.js"
 foreach($filePath in $paths)
 {
@@ -15,6 +15,7 @@ foreach($filePath in $paths)
 }
 
 Copy-Item "$OriDirectory\renderer.js" -Destination "$WorkingDirectory"
+#复制一份干净的renderer.js
 
 $Translates = Get-Content -Path D:\TextReplacing\translate.txt -encoding utf8
 $rendererpath = "D:\TextReplacing\renderer.js"
