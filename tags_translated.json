@@ -700,5 +700,455 @@
     "original": "enchanted",
     "translation": "着魔",
     "stage": 1
-  }                   
+  },
+  {
+    "key": "amulets",
+    "original": "amulets",
+    "translation": "护身符",
+    "stage": 1
+  },
+  {
+    "key": "pointy hats",
+    "original": "pointy hats",
+    "translation": "尖顶帽",
+    "stage": 1
+  },
+  {
+    "key": "runes",
+    "original": "runes",
+    "translation": "符文",
+    "stage": 1
+  },
+  {
+    "key": "scepters",
+    "original": "scepters",
+    "translation": "节杖",
+    "stage": 1
+  },
+  {
+    "key": "wands",
+    "original": "wands",
+    "translation": "魔杖",
+    "stage": 1
+  },
+  {
+    "key": "maps",
+    "original": "maps",
+    "translation": "地图",
+    "stage": 1
+  },
+  {
+    "key": "aquatics",
+    "original": "aquatics",
+    "translation": "水上",
+    "stage": 1
+  },
+  {
+    "key": "naga",
+    "original": "naga",
+    "translation": "纳迦",
+    "stage": 1
+  },
+  {
+    "key": "merfolk",
+    "original": "merfolk",
+    "translation": "人鱼",
+    "stage": 1
+  },
+  {
+    "key": "beasts",
+    "original": "beasts",
+    "translation": "兽类",
+    "stage": 1
+  },
+  {
+    "key": "drakes",
+    "original": "drakes",
+    "translation": "雷克斯",
+    "stage": 1
+  },
+  {
+    "key": "demons",
+    "original": "demons",
+    "translation": "恶魔",
+    "stage": 1
+  },
+  {
+    "key": "dragons",
+    "original": "dragons",
+    "translation": "龙",
+    "stage": 1
+  },
+  {
+    "key": "dragon hides",
+    "original": "dragon hides",
+    "translation": "龙皮",
+    "stage": 1
+  },
+  {
+    "key": "dragon scales",
+    "original": "dragon scales",
+    "translation": "龙鳞",
+    "stage": 1
+  },
+  {
+    "key": "eyes",
+    "original": "eyes",
+    "translation": "眼睛",
+    "stage": 1
+  },
+  {
+    "key": "flyers",
+    "original": "flyers",
+    "translation": "传单",
+    "stage": 1
+  },
+  {
+    "key": "giants",
+    "original": "giants",
+    "translation": "巨人",
+    "stage": 1
+  },
+  {
+    "key": "trolls",
+    "original": "trolls",
+    "translation": "巨魔",
+    "stage": 1
+  },
+  {
+    "key": "goblin",
+    "original": "goblin",
+    "translation": "哥布林",
+    "stage": 1
+  },
+  {
+    "key": "packhorses",
+    "original": "packhorses",
+    "translation": "骆驼",
+    "stage": 1
+  },
+  {
+    "key": "oxen",
+    "original": "oxen",
+    "translation": "牛",
+    "stage": 1
+  },
+  {
+    "key": "donkey",
+    "original": "donkey",
+    "translation": "驴子",
+    "stage": 1
+  },
+  {
+    "key": "mule",
+    "original": "mule",
+    "translation": "骡",
+    "stage": 1
+  },
+  {
+    "key": "horses",
+    "original": "horses",
+    "translation": "马匹",
+    "stage": 1
+  },
+  {
+    "key": "paintings",
+    "original": "paintings",
+    "translation": "绘画",
+    "stage": 1
+  },
+  {
+    "key": "simon crowell",
+    "original": "simon crowell",
+    "translation": "西蒙-克劳",
+    "stage": 1
+  },
+  {
+    "key": "zoe",
+    "original": "zoe",
+    "translation": "佐伊",
+    "stage": 1
+  },
+  {
+    "key": "winston roberts",
+    "original": "winston roberts",
+    "translation": "温斯顿-罗伯茨",
+    "stage": 1
+  },
+  {
+    "key": "paul maguire",
+    "original": "paul maguire",
+    "translation": "保罗-马奎尔",
+    "stage": 1
+  },
+  {
+    "key": "darjus zdanovic",
+    "original": "darjus zdanovic",
+    "translation": "达柳斯-日丹诺维奇",
+    "stage": 1
+  },
+  {
+    "key": "pedal",
+    "original": "pedal",
+    "translation": "踏板",
+    "stage": 1
+  },
+  {
+    "key": "music",
+    "original": "music",
+    "translation": "音乐",
+    "stage": 1
+  },
+  {
+    "key": "paints",
+    "original": "paints",
+    "translation": "涂料",
+    "stage": 1
+  },
+  {
+    "key": "statues",
+    "original": "statues",
+    "translation": "雕像",
+    "stage": 1
+  },
+  {
+    "key": "storage",
+    "original": "storage",
+    "translation": "贮藏",
+    "stage": 1
+  },
+  {
+    "key": "barrels",
+    "original": "barrels",
+    "translation": "桶",
+    "stage": 1
+  },
+  {
+    "key": "baskets",
+    "original": "baskets",
+    "translation": "篮子",
+    "stage": 1
+  },
+  {
+    "key": "cages",
+    "original": "cages",
+    "translation": "笼子",
+    "stage": 1
+  },
+  {
+    "key": "carts",
+    "original": "carts",
+    "translation": "推车",
+    "stage": 1
+  },
+  {
+    "key": "chests",
+    "original": "chests",
+    "translation": "箱子",
+    "stage": 1
+  },
+  {
+    "key": "crates",
+    "original": "crates",
+    "translation": "板条箱",
+    "stage": 1
+  },
+  {
+    "key": "packs",
+    "original": "packs",
+    "translation": "包",
+    "stage": 1
+  },
+  {
+    "key": "pottery",
+    "original": "pottery",
+    "translation": "陶器",
+    "stage": 1
+  },
+  {
+    "key": "sacks",
+    "original": "sacks",
+    "translation": "袋",
+    "stage": 1
+  },
+  {
+    "key": "supplies",
+    "original": "supplies",
+    "translation": "补给",
+    "stage": 1
+  },
+  {
+    "key": "ingots",
+    "original": "ingots",
+    "translation": "铸锭",
+    "stage": 1
+  },
+  {
+    "key": "ore",
+    "original": "ore",
+    "translation": "矿石",
+    "stage": 1
+  },
+  {
+    "key": "rocks",
+    "original": "rocks",
+    "translation": "岩石",
+    "stage": 1
+  },
+  {
+    "key": "fibers",
+    "original": "fibers",
+    "translation": "纤维",
+    "stage": 1
+  },
+  {
+    "key": "fur",
+    "original": "fur",
+    "translation": "皮毛",
+    "stage": 1
+  },
+  {
+    "key": "leather",
+    "original": "leather",
+    "translation": "皮革",
+    "stage": 1
+  },
+  {
+    "key": "thread",
+    "original": "thread",
+    "translation": "丝线",
+    "stage": 1
+  },
+  {
+    "key": "linen",
+    "original": "linen",
+    "translation": "床单",
+    "stage": 1
+  },
+  {
+    "key": "silk",
+    "original": "silk",
+    "translation": "丝绸",
+    "stage": 1
+  },
+  {
+    "key": "weapons",
+    "original": "weapons",
+    "translation": "武器",
+    "stage": 1
+  },
+  {
+    "key": "arrows",
+    "original": "arrows",
+    "translation": "箭矢",
+    "stage": 1
+  },
+  {
+    "key": "axes",
+    "original": "axes",
+    "translation": "斧子",
+    "stage": 1
+  },
+  {
+    "key": "swords",
+    "original": "swords",
+    "translation": "剑",
+    "stage": 1
+  },
+  {
+    "key": "bows",
+    "original": "bows",
+    "translation": "弓",
+    "stage": 1
+  },
+  {
+    "key": "clubs",
+    "original": "clubs",
+    "translation": "棍棒",
+    "stage": 1
+  },
+  {
+    "key": "crossbows",
+    "original": "crossbows",
+    "translation": "十字弩",
+    "stage": 1
+  },
+  {
+    "key": "daggers",
+    "original": "daggers",
+    "translation": "匕首",
+    "stage": 1
+  },
+  {
+    "key": "flails",
+    "original": "flails",
+    "translation": "梿枷",
+    "stage": 1
+  },
+  {
+    "key": "maces",
+    "original": "maces",
+    "translation": "短棍",
+    "stage": 1
+  },
+  {
+    "key": "spears",
+    "original": "spears",
+    "translation": "矛",
+    "stage": 1
+  },
+  {
+    "key": "blowgun",
+    "original": "blowgun",
+    "translation": "喷枪",
+    "stage": 1
+  },
+  {
+    "key": "whips",
+    "original": "whips",
+    "translation": "鞭子",
+    "stage": 1
+  },
+  {
+    "key": "staffs",
+    "original": "staffs",
+    "translation": "杖",
+    "stage": 1
+  },
+  {
+    "key": "sling",
+    "original": "sling",
+    "translation": "投石索",
+    "stage": 1
+  },
+  {
+    "key": "throwing weapons",
+    "original": "throwing weapons",
+    "translation": "投掷类武器",
+    "stage": 1
+  },
+  {
+    "key": "scythe",
+    "original": "scythe",
+    "translation": "镰刀",
+    "stage": 1
+  },
+  {
+    "key": "bombs",
+    "original": "bombs",
+    "translation": "炸弹",
+    "stage": 1
+  },
+  {
+    "key": "war hammers",
+    "original": "war hammers",
+    "translation": "战锤",
+    "stage": 1
+  },
+  {
+    "key": "deck",
+    "original": "deck",
+    "translation": "卡组",
+    "stage": 1
+  }
 ]
