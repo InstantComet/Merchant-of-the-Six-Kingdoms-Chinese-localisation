@@ -13,7 +13,6 @@ foreach($filePath in $paths)
     }
 }
 
-#$Translates = Get-Content -Path D:\TextReplacing\Translates.ini -encoding utf8
 $Translated = Get-Content -Path "D:\TextReplacing\tags_translated.json" -encoding utf8 | ConvertFrom-Json 
 
 $ogrendererpath = "D:\TextReplacing\ori_renderer.js"
