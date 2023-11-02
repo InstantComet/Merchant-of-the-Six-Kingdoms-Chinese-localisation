@@ -1,0 +1,704 @@
+[
+  {
+    "key": "coins",
+    "original": "coins",
+    "translation": "硬币",
+    "stage": 1
+  },
+  {
+    "key": "gold coins",
+    "original": "gold coins",
+    "translation": "金币",
+    "stage": 1
+  },
+  {
+    "key": "silver coins",
+    "original": "silver coins",
+    "translation": "银币",
+    "stage": 1
+  },
+  {
+    "key": "copper coins",
+    "original": "copper coins",
+    "translation": "铜币",
+    "stage": 1
+  },
+  {
+    "key": "company_stake",
+    "original": "company_stake",
+    "translation": "公司股票",
+    "stage": 1
+  },
+  {
+    "key": "deeds",
+    "original": "deeds",
+    "translation": "契据",
+    "stage": 1
+  },
+  {
+    "key": "magic",
+    "original": "magic",
+    "translation": "魔法",
+    "stage": 1
+  },
+  {
+    "key": "cards",
+    "original": "cards",
+    "translation": "卡牌",
+    "stage": 1
+  },
+  {
+    "key": "games",
+    "original": "games",
+    "translation": "游戏",
+    "stage": 1
+  },
+  {
+    "key": "books",
+    "original": "books",
+    "translation": "书籍",
+    "stage": 1
+  },
+  {
+    "key": "history",
+    "original": "history",
+    "translation": "历史",
+    "stage": 1
+  },
+  {
+    "key": "compendiums",
+    "original": "compendiums",
+    "translation": "资料汇编",
+    "stage": 1
+  },
+  {
+    "key": "educational",
+    "original": "educational",
+    "translation": "教育用",
+    "stage": 1
+  },
+  {
+    "key": "myth books",
+    "original": "myth books",
+    "translation": "神话书",
+    "stage": 1
+  },
+  {
+    "key": "religious",
+    "original": "religious",
+    "translation": "宗教",
+    "stage": 1
+  },
+  {
+    "key": "stories",
+    "original": "stories",
+    "translation": "故事",
+    "stage": 1
+  },
+  {
+    "key": "military",
+    "original": "military",
+    "translation": "军用",
+    "stage": 1
+  },
+  {
+    "key": "toki pona",
+    "original": "toki pona",
+    "translation": "道本语",
+    "stage": 1
+  },
+  {
+    "key": "journals",
+    "original": "journals",
+    "translation": "杂志",
+    "stage": 1
+  },
+  {
+    "key": "jewelry",
+    "original": "jewelry",
+    "translation": "首饰",
+    "stage": 1
+  },
+  {
+    "key": "gems",
+    "original": "gems",
+    "translation": "宝石",
+    "stage": 1
+  },
+  {
+    "key": "crowns",
+    "original": "crowns",
+    "translation": "冠",
+    "stage": 1
+  },
+  {
+    "key": "gold",
+    "original": "gold",
+    "translation": "金质",
+    "stage": 1
+  },
+  {
+    "key": "crystals",
+    "original": "crystals",
+    "translation": "水晶",
+    "stage": 1
+  },
+  {
+    "key": "necklaces",
+    "original": "necklaces",
+    "translation": "项链",
+    "stage": 1
+  },
+  {
+    "key": "rings",
+    "original": "rings",
+    "translation": "指环",
+    "stage": 1
+  },
+  {
+    "key": "food",
+    "original": "food",
+    "translation": "食物",
+    "stage": 1
+  },
+  {
+    "key": "spices",
+    "original": "spices",
+    "translation": "香辛料",
+    "stage": 1
+  },
+  {
+    "key": "alchemy",
+    "original": "alchemy",
+    "translation": "炼金术",
+    "stage": 1
+  },
+  {
+    "key": "aromatic",
+    "original": "aromatic",
+    "translation": "芳香剂",
+    "stage": 1
+  },
+  {
+    "key": "poisons",
+    "original": "poisons",
+    "translation": "毒药",
+    "stage": 1
+  },
+  {
+    "key": "potions",
+    "original": "potions",
+    "translation": "药水",
+    "stage": 1
+  },
+  {
+    "key": "poison",
+    "original": "poison",
+    "translation": "毒药",
+    "stage": 1
+  },
+  {
+    "key": "remedies",
+    "original": "remedies",
+    "translation": "救济",
+    "stage": 1
+  },
+  {
+    "key": "solutions",
+    "original": "solutions",
+    "translation": "解决方案",
+    "stage": 1
+  },
+  {
+    "key": "tools",
+    "original": "tools",
+    "translation": "工具",
+    "stage": 1
+  },
+  {
+    "key": "animals",
+    "original": "animals",
+    "translation": "动物",
+    "stage": 1
+  },
+  {
+    "key": "amorphous",
+    "original": "amorphous",
+    "translation": "无定形",
+    "stage": 1
+  },
+  {
+    "key": "amphibians",
+    "original": "amphibians",
+    "translation": "两栖类",
+    "stage": 1
+  },
+  {
+    "key": "arachnids",
+    "original": "arachnids",
+    "translation": "蜘蛛类",
+    "stage": 1
+  },
+  {
+    "key": "insects",
+    "original": "insects",
+    "translation": "昆虫",
+    "stage": 1
+  },
+  {
+    "key": "butterflies",
+    "original": "butterflies",
+    "translation": "蝴蝶",
+    "stage": 1
+  },
+  {
+    "key": "kanine",
+    "original": "kanine",
+    "translation": "卡尼恩",
+    "stage": 1
+  },
+  {
+    "key": "mammals",
+    "original": "mammals",
+    "translation": "哺乳类",
+    "stage": 1
+  },
+  {
+    "key": "megafauna",
+    "original": "megafauna",
+    "translation": "巨兽",
+    "stage": 1
+  },
+  {
+    "key": "reptiles",
+    "original": "reptiles",
+    "translation": "爬行类",
+    "stage": 1
+  },
+  {
+    "key": "snakes",
+    "original": "snakes",
+    "translation": "蛇",
+    "stage": 1
+  },
+  {
+    "key": "monster parts",
+    "original": "monster parts",
+    "translation": "怪物部位",
+    "stage": 1
+  },
+  {
+    "key": "worms",
+    "original": "worms",
+    "translation": "蠕虫",
+    "stage": 1
+  },
+  {
+    "key": "livestock",
+    "original": "livestock",
+    "translation": "牲畜",
+    "stage": 1
+  },
+  {
+    "key": "birds",
+    "original": "birds",
+    "translation": "鸟类",
+    "stage": 1
+  },
+  {
+    "key": "armor",
+    "original": "armor",
+    "translation": "护甲",
+    "stage": 1
+  },
+  {
+    "key": "bardings",
+    "original": "bardings",
+    "translation": "吟游诗人",
+    "stage": 1
+  },
+  {
+    "key": "dragon armor",
+    "original": "dragon armor",
+    "translation": "龙胄",
+    "stage": 1
+  },
+  {
+    "key": "guantlets",
+    "original": "guantlets",
+    "translation": "手甲",
+    "stage": 1
+  },
+  {
+    "key": "helmets",
+    "original": "helmets",
+    "translation": "头盔",
+    "stage": 1
+  },
+  {
+    "key": "platemail",
+    "original": "platemail",
+    "translation": "版信",
+    "stage": 1
+  },
+  {
+    "key": "elven",
+    "original": "elven",
+    "translation": "精灵",
+    "stage": 1
+  },
+  {
+    "key": "orcish",
+    "original": "orcish",
+    "translation": "兽人",
+    "stage": 1
+  },
+  {
+    "key": "sabatons",
+    "original": "sabatons",
+    "translation": "脚甲",
+    "stage": 1
+  },
+  {
+    "key": "shields",
+    "original": "shields",
+    "translation": "盾牌",
+    "stage": 1
+  },
+  {
+    "key": "banners",
+    "original": "banners",
+    "translation": "条幅",
+    "stage": 1
+  },
+  {
+    "key": "botanicals",
+    "original": "botanicals",
+    "translation": "植物药",
+    "stage": 1
+  },
+  {
+    "key": "plants",
+    "original": "plants",
+    "translation": "植物",
+    "stage": 1
+  },
+  {
+    "key": "flowers",
+    "original": "flowers",
+    "translation": "花卉",
+    "stage": 1
+  },
+  {
+    "key": "mushrooms",
+    "original": "mushrooms",
+    "translation": "蘑菇",
+    "stage": 1
+  },
+  {
+    "key": "leafs",
+    "original": "leafs",
+    "translation": "叶子",
+    "stage": 1
+  },
+  {
+    "key": "fruit",
+    "original": "fruit",
+    "translation": "水果",
+    "stage": 1
+  },
+  {
+    "key": "seeds",
+    "original": "seeds",
+    "translation": "种子",
+    "stage": 1
+  },
+  {
+    "key": "wood",
+    "original": "wood",
+    "translation": "木质",
+    "stage": 1
+  },
+  {
+    "key": "clothes",
+    "original": "clothes",
+    "translation": "衣物",
+    "stage": 1
+  },
+  {
+    "key": "cloaks",
+    "original": "cloaks",
+    "translation": "斗篷",
+    "stage": 1
+  },
+  {
+    "key": "coats",
+    "original": "coats",
+    "translation": "大衣",
+    "stage": 1
+  },
+  {
+    "key": "dresses",
+    "original": "dresses",
+    "translation": "裙装",
+    "stage": 1
+  },
+  {
+    "key": "gloves",
+    "original": "gloves",
+    "translation": "手套",
+    "stage": 1
+  },
+  {
+    "key": "hats",
+    "original": "hats",
+    "translation": "帽子",
+    "stage": 1
+  },
+  {
+    "key": "masks",
+    "original": "masks",
+    "translation": "面具",
+    "stage": 1
+  },
+  {
+    "key": "rags",
+    "original": "rags",
+    "translation": "破布",
+    "stage": 1
+  },
+  {
+    "key": "robes",
+    "original": "robes",
+    "translation": "衣袍",
+    "stage": 1
+  },
+  {
+    "key": "shoes",
+    "original": "shoes",
+    "translation": "鞋子",
+    "stage": 1
+  },
+  {
+    "key": "vests",
+    "original": "vests",
+    "translation": "背心",
+    "stage": 1
+  },
+  {
+    "key": "socks",
+    "original": "socks",
+    "translation": "袜子",
+    "stage": 1
+  },
+  {
+    "key": "leggings",
+    "original": "leggings",
+    "translation": "裤袜",
+    "stage": 1
+  },
+  {
+    "key": "undergarments",
+    "original": "undergarments",
+    "translation": "内衣",
+    "stage": 1
+  },
+  {
+    "key": "blouse",
+    "original": "blouse",
+    "translation": "上衣",
+    "stage": 1
+  },
+  {
+    "key": "tunics",
+    "original": "tunics",
+    "translation": "长袍",
+    "stage": 1
+  },
+  {
+    "key": "coat of arms",
+    "original": "coat of arms",
+    "translation": "纹章",
+    "stage": 1
+  },
+  {
+    "key": "copper",
+    "original": "copper",
+    "translation": "铜质",
+    "stage": 1
+  },
+  {
+    "key": "household",
+    "original": "household",
+    "translation": "家用品",
+    "stage": 1
+  },
+  {
+    "key": "tableware",
+    "original": "tableware",
+    "translation": "餐具",
+    "stage": 1
+  },
+  {
+    "key": "silver",
+    "original": "silver",
+    "translation": "银质",
+    "stage": 1
+  },
+  {
+    "key": "drinks",
+    "original": "drinks",
+    "translation": "饮料",
+    "stage": 1
+  },
+  {
+    "key": "flags",
+    "original": "flags",
+    "translation": "旗帜",
+    "stage": 1
+  },
+  {
+    "key": "shikyomo resistance",
+    "original": "shikyomo resistance",
+    "translation": "shikyomo抵抗运动",
+    "stage": 1
+  },
+  {
+    "key": "bread",
+    "original": "bread",
+    "translation": "面包",
+    "stage": 1
+  },
+  {
+    "key": "beans",
+    "original": "beans",
+    "translation": "豆子",
+    "stage": 1
+  },
+  {
+    "key": "brewed",
+    "original": "brewed",
+    "translation": "精酿",
+    "stage": 1
+  },
+  {
+    "key": "dairy",
+    "original": "dairy",
+    "translation": "日记",
+    "stage": 1
+  },
+  {
+    "key": "cheese",
+    "original": "cheese",
+    "translation": "乳酪",
+    "stage": 1
+  },
+  {
+    "key": "eggs",
+    "original": "eggs",
+    "translation": "蛋",
+    "stage": 1
+  },
+  {
+    "key": "deserts",
+    "original": "deserts",
+    "translation": "沙漠",
+    "stage": 1
+  },
+  {
+    "key": "meat",
+    "original": "meat",
+    "translation": "肉类",
+    "stage": 1
+  },
+  {
+    "key": "nuts",
+    "original": "nuts",
+    "translation": "坚果",
+    "stage": 1
+  },
+  {
+    "key": "seafood",
+    "original": "seafood",
+    "translation": "海鲜",
+    "stage": 1
+  },
+  {
+    "key": "veggies",
+    "original": "veggies",
+    "translation": "蔬菜",
+    "stage": 1
+  },
+  {
+    "key": "grains",
+    "original": "grains",
+    "translation": "谷物",
+    "stage": 1
+  },
+  {
+    "key": "furniture",
+    "original": "furniture",
+    "translation": "家具",
+    "stage": 1
+  },
+  {
+    "key": "doors",
+    "original": "doors",
+    "translation": "门",
+    "stage": 1
+  },
+  {
+    "key": "glass",
+    "original": "glass",
+    "translation": "玻璃质",
+    "stage": 1
+  },
+  {
+    "key": "graves",
+    "original": "graves",
+    "translation": "墓穴",
+    "stage": 1
+  },
+  {
+    "key": "glyph stones",
+    "original": "glyph stones",
+    "translation": "刻石",
+    "stage": 1
+  },
+  {
+    "key": "alphabet stones",
+    "original": "alphabet stones",
+    "translation": "字母石",
+    "stage": 1
+  },
+  {
+    "key": "sword stones",
+    "original": "sword stones",
+    "translation": "剑石",
+    "stage": 1
+  },
+  {
+    "key": "candles",
+    "original": "candles",
+    "translation": "蜡烛",
+    "stage": 1
+  },
+  {
+    "key": "fabrics",
+    "original": "fabrics",
+    "translation": "织物",
+    "stage": 1
+  },
+  {
+    "key": "tool",
+    "original": "tool",
+    "translation": "工具",
+    "stage": 1
+  },
+  {
+    "key": "enchanted",
+    "original": "enchanted",
+    "translation": "着魔",
+    "stage": 1
+  }                   
+]

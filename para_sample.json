@@ -1,0 +1,12 @@
+[
+    {
+      "key": "KEY 键值",
+      "original": "source text 原文",
+      "translation": "translation text 译文"
+    },
+    {
+      "key": "KEY 键值 2",
+      "original": "source text 原文 2",
+      "translation": "translation text 译文 2"
+    }
+  ]

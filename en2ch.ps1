@@ -1,5 +1,4 @@
 $WorkingDirectory = "D:\TextReplacing"
-$OriDirectory = "D:\SteamLibrary\steamapps\common\merchant_of_the_six_kingdoms\resources\ori\dist\electron"
 $OutDirectory = "D:\SteamLibrary\steamapps\common\merchant_of_the_six_kingdoms\resources\output\dist\electron"
 
 Set-location $WorkingDirectory
@@ -14,19 +13,22 @@ foreach($filePath in $paths)
     }
 }
 
-Copy-Item "$OriDirectory\renderer.js" -Destination "$WorkingDirectory"
-#复制一份干净的renderer.js
+#$Translates = Get-Content -Path D:\TextReplacing\Translates.ini -encoding utf8
+$Translated = Get-Content -Path "D:\TextReplacing\tags_translated.json" -encoding utf8 | ConvertFrom-Json 
 
-$Translates = Get-Content -Path D:\TextReplacing\translate.txt -encoding utf8
-$rendererpath = "D:\TextReplacing\renderer.js"
+$ogrendererpath = "D:\TextReplacing\ori_renderer.js"
 
-$OgText = Get-Content -Path $rendererpath -encoding utf8
-$Length=$Translates.count
-for ($index = 0; $index -lt $Length; $index++) {
-    <# Action that will repeat until the condition is met #>
-    $eng=($Translates[$index].Split('='))[0]
-    $chn=($Translates[$index].Split('='))[1]
-    Write-Output ("Replacing" + " "+ $eng)
+$OgText = Get-Content -Path $ogrendererpath -encoding utf8
+
+for($index = 0; $index -lt $Translated.count; $index++) {
+    #从文件里获取原文
+    $eng = $Translated[$index].original
+    #从文件里获取译文
+    $chn = $Translated[$index].translation
+    $eng = ('"'+$eng+'"')
+    $chn = ('"'+$chn+'"')
+    Write-Output ("Replacing" + " "+ $eng +" with " + $chn)
+    #替换
     $NewText = $OgText.Replace($eng,$chn)
     $OgText = $NewText
 }
